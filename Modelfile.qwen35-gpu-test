@@ -1,0 +1,3 @@
+FROM qwen3.5:9b
+PARAMETER num_gpu 5
+PARAMETER num_ctx 4096
